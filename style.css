@@ -1,0 +1,83 @@
+
+        body{
+            background-color: rgb(124, 35, 166);
+            align-items: center;
+            height: 100%;
+            width: 100%;
+        }
+        #sarqa{
+            background-color: white;
+            width: 300px;
+            height: 450px;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+            border-radius: 16px;
+            padding: 30px 20px;
+            margin: auto;
+        
+        }
+        #sawir{
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            
+            border: 4px solid white;
+            margin: auto;
+          
+        }
+        #wll{
+            border-radius: 20px;
+            background: linear-gradient(to right, #667eea, #764ba2);
+            color: white;
+            text-align: center;
+            display: inline-block;
+            padding: 5px 15px;
+            margin-bottom: 10px;
+            margin-left: 50px;
+            
+
+        }
+        #magac{
+            font-weight: 900;
+            text-align: center;
+            font-size: 20px;
+        }
+        #qoraal{
+            font-size: 13px;
+            color: #777;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        h4{
+            text-align: center;
+            font-weight: bolder;
+            font-size: larger;
+        }
+        .socials{
+            margin-top: 20px;
+            margin-left: 60px; 
+            margin-bottom: 20px;
+        }
+        .socials a {
+      margin: 0 8px;
+      padding: 10px;
+      border-radius: 50%;
+      display: inline-block;
+      font-size: 16px;
+      text-decoration: none;
+      color: white;
+      transition: transform 0.3s ease;
+    }
+
+    .socials a:hover {
+      transform: scale(1.1);
+    }
+    #facebook{
+         background-color: #4267B2;
+         color: white;
+    }
+    #tiktok{
+        background-color: black;
+    }
+    #whatsapp{
+        background-color: green;
+    }
